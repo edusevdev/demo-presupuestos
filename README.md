@@ -1,11 +1,11 @@
-# Getting Started
+# 🚀 Getting Started
 
-Before starting we must to execute the command below to start the resources.
+Before starting we must to execute the command below to start the external resources.
 
 ```
 docker-compose up
 ```
 
-#### Current resources:
+#### 🔧 Current resources:
 - Mariadb
 
